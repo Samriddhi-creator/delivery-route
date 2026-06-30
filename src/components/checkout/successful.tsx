@@ -26,7 +26,7 @@ export default function Successful() {
                 </CardHeader>
 
                 <CardContent className="p-0 text-sm font-sans text-neutral-600">
-                    Your survey submission and expedition details have been successfully transmitted to the TEDx IIT Patna mainframe.
+                    Your survey submission and expedition details have been successfully transmitted to mainframe.
                 </CardContent>
 
                 <CardFooter className="p-0 w-full pt-2">
